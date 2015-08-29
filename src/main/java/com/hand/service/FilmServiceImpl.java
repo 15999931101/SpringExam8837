@@ -11,7 +11,7 @@ public class FilmServiceImpl implements FilmService{
 public void addFilm(Connection conn, Film film) throws SQLException {
 		
 		
-		System.out.println(film.getLanguage());
+		
 		String rental_duration="6";
 		String rental_rate="1.00";
 		String replacement_cost="20.00";
