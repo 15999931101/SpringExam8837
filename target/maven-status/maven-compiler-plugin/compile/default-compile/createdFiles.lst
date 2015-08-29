@@ -1,0 +1,10 @@
+com\hand\entity\Film.class
+com\hand\test\Client.class
+com\hand\spring\aop\Logging.class
+com\hand\service\FilmServiceImpl.class
+com\hand\service\FilmService.class
+com\hand\controller\FilmController.class
+com\hand\event\CStartEventHandler.class
+com\hand\dao\Imp\ConnectionFactory.class
+com\hand\spring\aop\TestAspect.class
+com\hand\event\CStopEventHandler.class
